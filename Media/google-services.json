@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "838395595915",
+    "firebase_url": "https://tran-gia-tri-lieu-default-rtdb.firebaseio.com",
+    "project_id": "tran-gia-tri-lieu",
+    "storage_bucket": "tran-gia-tri-lieu.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:838395595915:android:107124ac91d065a19bd88e",
+        "android_client_info": {
+          "package_name": "trangiatrilieu.ezs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfOAGx7WAtGIduNN2S2mqJ9OVNm--7nCI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

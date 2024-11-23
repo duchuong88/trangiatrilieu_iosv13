@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>API_KEY</key>
+	<string>AIzaSyBpsop4OV0hH4cdIb2fJw08rNcF9Yk_YuQ</string>
+	<key>GCM_SENDER_ID</key>
+	<string>838395595915</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>trangiatrilieu.ezs</string>
+	<key>PROJECT_ID</key>
+	<string>tran-gia-tri-lieu</string>
+	<key>STORAGE_BUCKET</key>
+	<string>tran-gia-tri-lieu.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:838395595915:ios:948aad177f688b759bd88e</string>
+	<key>DATABASE_URL</key>
+	<string>https://tran-gia-tri-lieu-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>
